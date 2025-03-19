@@ -46,11 +46,11 @@ This project addresses the SST UG Admission assignment, which involves designing
 - **Scalability**: The script can handle 1000+ students by adjusting the shortlist size in the code (e.g., top 60%).
 
 ### Submission
-- **Link**: [View the output on GitHub](https://github.com/yourusername/sst-admission-task/blob/main/sst_admission_output.md)  
-  *(Replace with your actual GitHub link after uploading)*
+- **Link**: [View the output on GitHub]([https://github.com/yourusername/sst-admission-task/blob/main/sst_admission_output.md](https://github.com/Sathwika-78/SST-UG-Shortlist-and-Interview-Plan/blob/main/sst_admission_output.md))  
+
 
 ### Contact
-For questions or issues, reach out to [your email] or submit an issue on this repository.
+For questions or issues, reach out to sathwika_andey@srmap.edu.in or submit an issue on this repository.
 
 ---
 *Generated on March 19, 2025*
